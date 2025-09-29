@@ -1,0 +1,2 @@
+# Predicting-CCPP-electrical-energy-output-using-a-trained-artificial-neural-network-regression-model.
+This project develops an Artificial Neural Network (ANN) regression model to predict the electrical energy output of a Combined Cycle Power Plant based on environmental and operational parameters. It covers data preprocessing, model training, and performance evaluation to demonstrate accurate energy forecasting.
