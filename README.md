@@ -5,7 +5,7 @@ This project implements an Artificial Neural Network (ANN) regression model to p
 
 Dataset
 
-The project uses the Folds5x2_pp.csv dataset, which contains operational records from a Combined Cycle Power Plant. Each entry consists of the following input features:
+The project uses the Folds5x2_pp.rxix dataset, which contains operational records from a Combined Cycle Power Plant. Each entry consists of the following input features:
 
 Temperature (°C)
 
